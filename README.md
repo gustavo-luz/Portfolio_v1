@@ -7,7 +7,7 @@ fork and clone https://github.com/gustavo-luz/Portfolio.git or https://github.co
 # Setup
 
 cd Portfolio
-source vend/bin/activate 
+source venv/bin/activate 
 
 if it doesn't work,try:
 python3 -m venv venv
@@ -16,7 +16,7 @@ python3 -m venv venv
 pip install flask
 
 ### try running
-run app.py, you should see: 
+run app.py (or flask run), you should see: 
 
 * Serving Flask app "app" (lazy loading)
  * Environment: production
@@ -31,3 +31,7 @@ to exit venv, type "deactivate
 
 # Notes about
 static = flask js
+
+
+## background at 
+/static/assets/images/image_1.jpg
