@@ -38,25 +38,18 @@ static = flask js
 
 
 #TODO
+### resume
 
-1 - FORMATAR IMAGENS DOS PROJETOS DO MESMO TAMANHO: basta ser das mesmas dimensões, com o max de pixels
-1.1 - PEGAR IMAGENS DE CADA PROJETO/PRODUZIR NO CANVA A PARTIR DO TAMANHO
-2 - SELECIONAR TODOS OS PROJETOS A ADD:
-    SOFTWARE: BOT WATCHER, ARIMA ML, WEBSCRAPPING, EDA NO R, 
-    HARDWARE: BENGALA, LORA
-    PRODUÇÃO: MARECHAL, ROTEIRIZAÇÃO C++, SINAL DE TRANSITO COM MATLAB
-    TIRAR O OTHER
-1 - bengala - mock
-2- lora - mock
-3- stories watcher - packaging
-4 - arima ml
-5 - r
-6 - webscrapping (bs4, requests scrapy, scraping stock prices, amazon prices (soon))
-7 - roteirização - typography
-8 - marechal
-9- matlab
+colocar uma caixa: certificates com o link pro perfil do github
 
-3- CONSEGUIR ADICIONAR MAIS PROJETOS NO HTML, ESCOLHER O NUMERO POR SESSÃO
+working experience: uiot, telebras, anac
+
+college experiences: ieee, lmf, kuki
+
+
+### about
+formatar a fonte e tentar alinhar melhor
+colocar o cv
 
 COISAS A COLOCAR: CURSO DO DATACAMP, CERTIFICADOS, 
 PUBLICAÇÕES: dubai, japones, qualidade
@@ -64,6 +57,14 @@ PUBLICAÇÕES: dubai, japones, qualidade
 HABILIDADES E FAMILIARIDADES: IMPRESSÃO 3D, LINUX, SENSORES, PROTOCOLOS, RASPBERRY PI, ESP
 (TALVEZ ISSO POSSA ENTRAR EM ABOUT)
 
-LUGARES Q PASSEI:
+### my services
+retirar
 
-LINGUAGENS E HABILIDADES COM CADA UMA:
+### blog on medium = my publications
+colocar dubai, enegep, e simpep
+
+### get in touch
+configurar email
+
+### host
+hospedar no heroku
