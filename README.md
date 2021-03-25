@@ -40,11 +40,13 @@ static = flask js
 #TODO
 ### resume
 
-colocar uma caixa: certificates com o link pro perfil do github
+
 
 working experience: uiot, telebras, anac
 
 college experiences: ieee, lmf, kuki
+
+colocar uma caixa: certificates com o link pro perfil do github
 
 
 ### about
