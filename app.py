@@ -9,7 +9,7 @@ def mail(email, pssd, mssg):
     server = smtplib.SMTP("smtp.gmail.com", 587)
     server.starttls()
     server.login(email, pssd)
-    server.sendmail(email, 'cybercreed010@gmail.com', mssg)
+    server.sendmail(email, 'gustavo.luz.unb@gmail.com', mssg)
 
     server.quit()
 
@@ -36,7 +36,7 @@ def form():
     if request.method == 'POST':
         data = request.form.to_dict()
         msg=cleanMsg(data)
-        password=os.environ.get('EMAIL_PASS')
+        password=os.environ.get('Password_Gmail')
         mail('wantech010@gmail.com', password, msg)
         return render_template("index.html",code="test()")
     else:

@@ -41,8 +41,8 @@ static = flask js
 
 
 ### about
-formatar a fonte e tentar alinhar melhor
-colocar o cv
+formatar a fonte e tentar alinhar melhor (so se sobrar tempo)
+colocar o cv (fazer e mudar)
 
 
 ### get in touch
