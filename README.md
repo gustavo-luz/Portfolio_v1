@@ -38,32 +38,12 @@ static = flask js
 
 
 #TODO
-### resume
-
-
-
-working experience: uiot, telebras, anac
-
-college experiences: ieee, lmf, kuki
-
-colocar uma caixa: certificates com o link pro perfil do github
 
 
 ### about
 formatar a fonte e tentar alinhar melhor
 colocar o cv
 
-COISAS A COLOCAR: CURSO DO DATACAMP, CERTIFICADOS, 
-PUBLICAÇÕES: dubai, japones, qualidade
-
-HABILIDADES E FAMILIARIDADES: IMPRESSÃO 3D, LINUX, SENSORES, PROTOCOLOS, RASPBERRY PI, ESP
-(TALVEZ ISSO POSSA ENTRAR EM ABOUT)
-
-### my services
-retirar
-
-### blog on medium = my publications
-colocar dubai, enegep, e simpep
 
 ### get in touch
 configurar email
