@@ -45,8 +45,10 @@ formatar a fonte e tentar alinhar melhor (so se sobrar tempo)
 colocar o cv (fazer e mudar)
 
 
-### get in touch
-configurar email
+### link
 
-### host
-hospedar no heroku
+download cv-eng
+https://drive.google.com/uc?export=download&id=1oJu2_wMB82wxSkE6N-3IwK9We3YNUni7
+
+download cv-ptbr
+https://drive.google.com/uc?export=download&id=1JMMeWemFZ8gdAfVYyDk8UnEkmnYoBycD
