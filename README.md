@@ -52,3 +52,10 @@ https://drive.google.com/uc?export=download&id=1oJu2_wMB82wxSkE6N-3IwK9We3YNUni7
 
 download cv-ptbr
 https://drive.google.com/uc?export=download&id=1JMMeWemFZ8gdAfVYyDk8UnEkmnYoBycD
+
+## bug
+This page uses the non standard property “zoom”. Consider using calc() in the relevant property values, or using “transform” along with “transform-origin: 0 0”.
+
+DevTools failed to load SourceMap: Could not parse content for https://gustavo-luz.herokuapp.com/static/vendor/bootstrap.min.js.map: Unexpected token < in JSON at position 0
+
+DevTools failed to load SourceMap: Could not parse content for https://gustavo-luz.herokuapp.com/static/vendor/popper.min.js.map: Unexpected token < in JSON at position 0
